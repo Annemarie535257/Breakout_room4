@@ -33,7 +33,6 @@ A simple **Flutter application** showcasing product navigation with interactive 
 ├── lib
 │   ├── main.dart          # Main entry point (Product List Page)
 │   └── details_page.dart  # Product Details Page
-├── assets                 # Folder to store screenshots/images
 └── README.md              # Project documentation
 ```
 
@@ -65,7 +64,7 @@ A simple **Flutter application** showcasing product navigation with interactive 
 
 ---
 
-**Developed by using Flutter**
+**Developed by:**
 1. Kellia Muzira
 2. Anne Marie Twagirayezu
 3. Belinda Larose
