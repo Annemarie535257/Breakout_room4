@@ -42,12 +42,12 @@ A simple **Flutter application** showcasing product navigation with interactive 
 ## ⚙️ **Installation & Run**
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/product-navigation.git
+   git clone https://github.com/Annemarie535257/Breakout_room4.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd product-navigation
+   cd Breakout_room4
    ```
 
 3. **Run the app:**
